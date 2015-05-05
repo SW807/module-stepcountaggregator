@@ -9,12 +9,6 @@
         { "name": "stepcount", "dataType": "INTEGER"}
       ]
     },
-    {
-      "name": "position",
-      "columns": [
-       { "name": "pos", "dataType": "INTEGER"}
-      ]
-    }
   ],
   "dependencies": [
           [
